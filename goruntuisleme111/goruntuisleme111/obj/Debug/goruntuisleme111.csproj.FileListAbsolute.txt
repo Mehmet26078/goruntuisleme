@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\goruntuisleme111\goruntuisleme111\bin\Debug\goruntuisleme111.exe.config
+C:\Users\User\Desktop\goruntuisleme111\goruntuisleme111\bin\Debug\goruntuisleme111.exe
+C:\Users\User\Desktop\goruntuisleme111\goruntuisleme111\bin\Debug\goruntuisleme111.pdb
+C:\Users\User\Desktop\goruntuisleme111\goruntuisleme111\obj\Debug\goruntuisleme111.csprojAssemblyReference.cache
+C:\Users\User\Desktop\goruntuisleme111\goruntuisleme111\obj\Debug\goruntuisleme111.Form1.resources
+C:\Users\User\Desktop\goruntuisleme111\goruntuisleme111\obj\Debug\goruntuisleme111.Form2.resources
+C:\Users\User\Desktop\goruntuisleme111\goruntuisleme111\obj\Debug\goruntuisleme111.Properties.Resources.resources
+C:\Users\User\Desktop\goruntuisleme111\goruntuisleme111\obj\Debug\goruntuisleme111.csproj.GenerateResource.cache
+C:\Users\User\Desktop\goruntuisleme111\goruntuisleme111\obj\Debug\goruntuisleme111.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\goruntuisleme111\goruntuisleme111\obj\Debug\goruntuisleme111.exe
+C:\Users\User\Desktop\goruntuisleme111\goruntuisleme111\obj\Debug\goruntuisleme111.pdb
